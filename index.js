@@ -35,7 +35,7 @@ client.on(`ready`, () => {
       });
       
 
-      client.user.setActivity(`${PREFIX}help 𝗠𝗮𝗴𝗶𝗰 𝗛𝗲𝗮𝗱𝗾𝘂𝗮𝗿𝘁𝗲𝗿𝘀`, { type: "STREAMING",
+      client.user.setActivity(`${PREFIX}BATTLE  MASTER`, { type: "STREAMING",
       url: "https://www.twitch.tv/nocopyrightsounds"});
    
   
